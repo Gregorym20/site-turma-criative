@@ -22,3 +22,21 @@
  margin: 0 16px;
  font-size: 24px;
 }
+
+.loja-imagem{
+    width: 25%;
+}
+
+.loja-titulo{
+ background-image: linear-gradient(#035156, #4EBFE9);
+ color: aliceblue;
+ padding: 1000px 0;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding: 24px 0;
+ }
+
+ .loja-div-conteudo{
+    width: 35%;
+ }
